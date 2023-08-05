@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bar Volume Java</string>
+
+    <string name="length">Length</string>
+    <string name="length_autofill">Please input the length</string>
+
+    <string name="width">Width</string>
+    <string name="width_autofill">Please input the width</string>
+
+    <string name="height">Height</string>
+    <string name="height_autofill">Please input the height</string>
+
+    <string name="calculate_button">Calculate</string>
+    <string name="result">Result</string>
+</resources>
